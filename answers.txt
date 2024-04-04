@@ -1,0 +1,9 @@
+1. Spring is a framework which is built using Java, provide convenience in buiding such enterprise applications.
+
+2. Spring Boot is a framework that built on top of the Spring, which provide autoconfiguration and embedded server. It makes the process of creating web application easier.
+
+
+
+5. Dependency Injection is a machanism that create object and inject to the class that need to use those object. In Spring, it is done by using annotation.
+
+6. Inversion of Control is framework that manage DI object. In Spring, it is like a container that create and manage Bean objects. 
